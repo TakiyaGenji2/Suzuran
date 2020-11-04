@@ -1,3 +1,4 @@
+#Dibuat oleh Muhammad Fahri Dika Yuda dan Yusuf Taqyuddin
 def luaspersegi(sisi):
     luas=sisi*sisi
     return luas
