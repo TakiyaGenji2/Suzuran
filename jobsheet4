@@ -53,6 +53,12 @@ while pilihan !=0:
         B=int(input("masukkan tinggi :"))
         print("Luas segitiga : 0.5*",A,"*",B,"=",luassegitiga(A,B))
         print("")
+    elif pilihan==6:
+        A=int(input("masukkan sisi a :"))
+        B=int(input("masukkan sisi b :"))
+        C=int(input("masukkan sisi c :"))
+        print("Keliling segitiga :",A,"+",B,"+",C,"=",kelilingsegitiga(A,B,C))
+        print("")
     elif pilihan==0:
         print("TERIMAKASIH TELAH MENCOBA")
     else:
