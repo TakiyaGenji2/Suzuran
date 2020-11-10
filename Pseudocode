@@ -37,8 +37,8 @@
         "A=int(input(\"Masukkan bilangan pertama :\"))\n",
         "B=int(input(\"Masukkan bilangan kedua :\"))\n",
         "hasil=A+B\n",
-        "total=hasil**2\n",
-        "print(\"Hasil =\",total)"
+        "totalakhir=hasil*hasil\n",
+        "print(\"total =\",totalakhir)"
       ],
       "execution_count": 1,
       "outputs": [
